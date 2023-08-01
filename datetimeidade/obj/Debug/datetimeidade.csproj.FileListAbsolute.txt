@@ -1,0 +1,11 @@
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\bin\Debug\datetimeidade.exe.config
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\bin\Debug\datetimeidade.exe
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\bin\Debug\datetimeidade.pdb
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\obj\Debug\datetimeidade.csproj.AssemblyReference.cache
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\obj\Debug\datetimeidade.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\obj\Debug\datetimeidade.Form1.resources
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\obj\Debug\datetimeidade.Properties.Resources.resources
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\obj\Debug\datetimeidade.csproj.GenerateResource.cache
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\obj\Debug\datetimeidade.csproj.CoreCompileInputs.cache
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\obj\Debug\datetimeidade.exe
+C:\Users\2022102020080\source\repos\datetimeidade\datetimeidade\obj\Debug\datetimeidade.pdb
